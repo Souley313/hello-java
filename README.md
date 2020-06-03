@@ -1,5 +1,5 @@
 ## Auteur(s)
 
-|Nom|Prénom|email|
-|--|--|--|--|
-| THIAM | Souleymane | souleymanethiam22@gmail.com |
+Nom: THIAM 
+PrÃ©nom: Souleymane 
+Email: souleymanethiam22@gmail.com
